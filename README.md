@@ -17,12 +17,12 @@ Each project lives inside the `scraping-python` folder, providing step-by-step s
 
 To begin using any of these projects:
 
-1. **Clone this repository** to your local machine:
+1. **Clone this repository to your local machine**:
    ```bash
    git clone https://github.com/ist00dent/scraping-projects.git
    cd scraping-projects/scraping-python
    ```
-2. **Navigate to the desired project folder and install the requirements:
+2. **Navigate to the desired project folder and install the requirements**:
    ```bash
    cd project-folder-name
    pip install -r requirements.txt
