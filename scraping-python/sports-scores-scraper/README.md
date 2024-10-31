@@ -36,13 +36,15 @@ This project allows users to scrape historical game scores from the NBA using Ya
    
 4. **View the Output**: After execution, find the generated CSV file named in the format nba_scores_<start_date>_to_<end_date>.csv containing the game scores.
 
+## Sample Site to Scrape
+This project uses the following website as a sample:
+[Yahoo Sports](https://sports.yahoo.com/nba/scoreboard/)
+
+**Important Note**: The site referenced in this project is **not** owned by me. This scraper is intended for **educational and illustrative purposes only**. Ensure compliance with the respective website's terms of service and copyright regulations when using this scraper.
+
+
 ## Contributing
 
    Feel free to fork this repository and submit pull requests for improvements and enhancements.
-
-## Disclaimer
-
-This project is intended for educational purposes. Please ensure that you comply with the terms of service of Yahoo Sports or any other website you scrape.
-
 
 
