@@ -20,5 +20,8 @@ ENV/
 # Logs
 *.log
 
+# .idea
+.idea/
+
 # Data files (optional)
 data/
