@@ -13,6 +13,7 @@ Each project lives inside the `scraping-python` folder, providing step-by-step s
 - **[Shopify Scraper](scraping-python/shop-scrape-central/README.md)**: A scraper designed to extract product details from Shopify e-commerce websites.
 - **[Sports NBA Scores Scraper](scraping-python/sports-scores-scraper/README.md)**: Track NBA game scores over a historical range.
 - **[Restaurant Menu Scraper](scraping-python/restaurant-menu-scraper/README.md)**: Extract product information from restaurant menus and save it in an Excel file.
+- **[Social Media Profile Scraper](scraping-python/social-media-profile-scraper/README.md)**: Scrapes profile details such as names, followers, and likes from social media platforms such as Instagram, Facebook, and TikTok accounts.
 
 ## 🚀 Getting Started
 
